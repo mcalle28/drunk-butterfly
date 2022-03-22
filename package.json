@@ -1,0 +1,30 @@
+{
+  "name": "drunk-butterfly",
+  "version": "1.0.0",
+  "description": "Bot Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcalle28/drunk-butterfly.git"
+  },
+  "keywords": [
+    "writing",
+    "bot",
+    "discord"
+  ],
+  "author": "Maria, Ricardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcalle28/drunk-butterfly/issues"
+  },
+  "homepage": "https://github.com/mcalle28/drunk-butterfly#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "node": "^16.14.0"
+  }
+}
