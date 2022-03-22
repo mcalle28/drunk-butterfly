@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/mcalle28/drunk-butterfly#readme",
   "dependencies": {
-    "discord.js": "^13.6.0"
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
   },
   "devDependencies": {
     "node": "^16.14.0"
